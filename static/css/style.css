@@ -1,0 +1,15 @@
+
+
+.carousel{
+   width: 900px;
+}
+
+.container-form{
+    width: 30%;
+}
+
+@media(max-width:990px){
+    .container-form{
+        width: 80%;
+    }
+}
